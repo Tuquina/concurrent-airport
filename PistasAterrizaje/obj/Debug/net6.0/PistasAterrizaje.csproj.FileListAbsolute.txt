@@ -1,0 +1,15 @@
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\bin\Debug\net6.0\PistasAterrizaje.exe
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\bin\Debug\net6.0\PistasAterrizaje.deps.json
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\bin\Debug\net6.0\PistasAterrizaje.runtimeconfig.json
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\bin\Debug\net6.0\PistasAterrizaje.dll
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\bin\Debug\net6.0\PistasAterrizaje.pdb
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\PistasAterrizaje.csproj.AssemblyReference.cache
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\PistasAterrizaje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\PistasAterrizaje.AssemblyInfoInputs.cache
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\PistasAterrizaje.AssemblyInfo.cs
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\PistasAterrizaje.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\PistasAterrizaje.dll
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\refint\PistasAterrizaje.dll
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\PistasAterrizaje.pdb
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\PistasAterrizaje.genruntimeconfig.cache
+C:\Users\Fernando\Documents\Fernando\Facultad\SO\Trabajo Grupal\PistasAterrizaje\PistasAterrizaje\obj\Debug\net6.0\ref\PistasAterrizaje.dll
